@@ -98,7 +98,12 @@ i also installed python pillow by running the code "python -m pip install pillow
 
 
 
- %%I had some couple of challenges%%
+ 
+ 
+ 
+ 
+ 
+ #I had some couple of challenges%%
 1. some of them were ofcourse network but this was easily solve. While download an item network decides to misbehave through disconnection. The best way was to search for a different internet connection quickly
 
 2. installing windows 11 seemed harder for my machine due to two specific reasons according to the health checker which  were : a.]my PC's processor aren't supported by windows 11
