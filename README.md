@@ -103,7 +103,7 @@ i also installed python pillow by running the code "python -m pip install pillow
  
  
  
- #I had some couple of challenges%%
+ # I had some couple of challenges%%
 1. some of them were ofcourse network but this was easily solve. While download an item network decides to misbehave through disconnection. The best way was to search for a different internet connection quickly
 
 2. installing windows 11 seemed harder for my machine due to two specific reasons according to the health checker which  were : a.]my PC's processor aren't supported by windows 11
@@ -113,6 +113,9 @@ to curb the problems i had to accept the impossibles for now and use the current
 
 3. My installation seemed quite a process of which in case you missed any might be fatal in future. i had not included  a workbench at first so i had to download it later which i did. 
 I almost added a weaker password but remmebering what effects of cracking by crackers ,i immediately chipped in a stronger one.
+
+
+
 
 
 
