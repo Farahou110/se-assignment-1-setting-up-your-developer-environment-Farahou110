@@ -52,3 +52,62 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+
+
+
+# Task 1: Operating System installation
+      well i tried to doenload the latest version of windows ie windows 11 by copying the link  https://www.microsoft.com/software-download/windows11 and pasting in my browser but my machine wasn't compatible for two reasons which are 
+                  a)my PC's processor aren't supported by windows 11
+                  b)TPM isn't supported and enabled in my pc
+         this crippled my actions of installing windows 11 hence i decide to you my windows 10 for the time.
+
+
+# Task 2: IDE installation
+        these step seemed to be among the easiest of them all. I managed to install my visual studio using the link provided ie (https://code.visualstudio.com/Download)
+          this image ![alt text](image.png) shows the vs code i downloaded. I just had to ensure its location is identified and install it.
+
+# Task 3: setting up a Version Control System
+   
+    i have previously interructed with Github account but not git bash. i installedthe whole load of git. i just had to type git downloads in my browser and select the specified for my machine as shown in the image ![alt text](image-1.png) 
+    after installing i had to run my gitbash to ensure the git is the latest as shown ![alt text](image-3.png)
+
+# Task 4: install necessary programming language
+   
+    For the project, python was the necessary language. i used the link: https://www.python.org/downloads/windows/ to download latest version for windows. I downloaded using the link highlighted in red: ![alt text](image-4.png) 
+    I then opened my VS code and install all python extensions for easy working as shown ![alt text](image-5.png)
+
+# Task 5: Install Package Managers
+    
+    having git bash in my device this activity seemed easier. all i had to do was to prompt the git bash shell the command "pip install <package-name> " in the <package-name> section i had to pass the pacjage such as django.
+
+# Task 6: Configure a Database (MySQL)
+   
+   For data: storage,access and management we need databases . To download search for  dev.mysql.com/downloads/installer/
+   download the highligted one as shown in the image ![alt text](image-6.png)
+   during the installation ensure you choose custom at the start so as to download not only mysql but also extensions such as workbench and server ![alt text](image-7.png)
+   After choosing install as by executing as shown ![alt text](image-8.png)
+   in the type and networking section ![alt text](image-11.png)
+   click next and enter password to be used whenever one needs authentication 
+   create a password easier to remember and also should be strong to avoid cracking
+
+   
+# Task 7:virtual Environments
+I used a virtual environments that comes embedded with python. On top of that i used django  that is installed with the prompts "python -m pip install django"
+i also installed python pillow by running the code "python -m pip install pillow"
+
+
+
+ %%I had some couple of challenges%%
+1. some of them were ofcourse network but this was easily solve. While download an item network decides to misbehave through disconnection. The best way was to search for a different internet connection quickly
+
+2. installing windows 11 seemed harder for my machine due to two specific reasons according to the health checker which  were : a.]my PC's processor aren't supported by windows 11
+                  b)TPM isn't supported and enabled in my pc
+
+to curb the problems i had to accept the impossibles for now and use the current which is windows 10
+
+3. My installation seemed quite a process of which in case you missed any might be fatal in future. i had not included  a workbench at first so i had to download it later which i did. 
+I almost added a weaker password but remmebering what effects of cracking by crackers ,i immediately chipped in a stronger one.
+
+
+
